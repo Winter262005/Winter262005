@@ -8,8 +8,8 @@
 
 <h3 align="center">GSSoC'24 Badges:</h3>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=96" width="100px" height="100px" />
 </div>
 <br>
 <br>
