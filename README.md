@@ -11,6 +11,8 @@
   <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96" width="100px" height="100px" />
   <img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=96" width="100px" height="100px" />
   <img src="https://images.credly.com/size/680x680/images/9254c205-669b-4ce8-8a3b-f4a8a66ebaec/image.png" width="100px" height="100px" />
+  <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" width="100px" height="100px" />
+  <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp" width="100px" height="100px" />
 </div>
 <br>
 <br>
