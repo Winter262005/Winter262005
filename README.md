@@ -25,6 +25,8 @@
 <div align="center">
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=winter262005&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/winter262005/project-toolsuite?color=181717&logo=github&style=for-the-badge&logoColor=181717">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/winter262005?style=for-the-badge&logo=github&color=ffd700">
 </div>
 <br/>
 
